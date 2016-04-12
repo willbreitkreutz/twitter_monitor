@@ -1,0 +1,15 @@
+{
+  "name": "twitter_whats_up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "willbreitkreutz",
+  "license": "MIT",
+  "dependencies": {
+    "node-tweet-stream": "^1.9.1",
+    "socket.io": "^1.4.4"
+  }
+}

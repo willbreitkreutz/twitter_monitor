@@ -1,0 +1,26 @@
+
+#map {
+  position:absolute;
+  top:64px;
+  bottom:0;
+  width:100%;
+}
+
+.search-description {
+  color:#b2dbfb;
+  font-size: 18px;
+  padding-left: 25px;
+}
+
+.hidden{
+  display:none;
+}
+
+.detail-check{
+  padding-top: 8px;
+  color:#b2dbfb;
+}
+
+input#detailSwitch::after{
+  border:2px solid;
+}
